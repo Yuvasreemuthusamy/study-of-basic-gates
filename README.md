@@ -86,6 +86,6 @@ endmodule
 ![Screenshot (116)](https://github.com/Yuvasreemuthusamy/study-of-basic-gates/assets/144870887/b596ed4b-1b7d-41a3-95ed-384c9fe0a77c)
 
 **Result:**
-Logic gates and its truth tables are successfully verified.
+It is successfully verified.
 
 
