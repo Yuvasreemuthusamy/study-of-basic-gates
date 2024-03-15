@@ -78,7 +78,8 @@ xor(y6,a,b);
 xnor(y7,a,b);
 endmodule
 ```
- Developed by:Yuva Sree M 
+ Developed by:Yuva Sree M
+ 
  RegisterNumber: 212223230251
  
 **Output:**
